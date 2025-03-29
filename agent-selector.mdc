@@ -1,5 +1,5 @@
 ---
-description: Specialized agent that analyzes conversation context and recommends the most appropriate next agent based on the current stage in the development workflow.
+description: 
 globs: 
 alwaysApply: false
 ---
