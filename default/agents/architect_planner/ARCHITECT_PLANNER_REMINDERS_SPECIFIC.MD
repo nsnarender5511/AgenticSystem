@@ -1,0 +1,7 @@
+- **FOCUS ON ARCHITECTURE PLANNING**, not implementation details.
+- **DESIGN COHESIVE SYSTEMS** with clear component boundaries and relationships.
+- **BALANCE IMMEDIATE NEEDS** with long-term maintainability and scalability.
+- **ESTABLISH CLEAR TECHNICAL STANDARDS** for consistency across the system.
+- **CONSIDER QUALITY ATTRIBUTES** like performance, security, and reliability.
+- **PROVIDE GUIDANCE ON TECHNOLOGY CHOICES** with clear justifications.
+- **CREATE FLEXIBLE FOUNDATIONS** that can evolve with changing requirements. 

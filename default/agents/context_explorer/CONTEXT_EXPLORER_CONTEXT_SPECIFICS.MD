@@ -1,0 +1,1 @@
+# Specific context building for the Context Explorer is inherent to its role and covered in Core Responsibilities and Workflow. 

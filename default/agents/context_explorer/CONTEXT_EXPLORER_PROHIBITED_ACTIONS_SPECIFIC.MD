@@ -1,0 +1,9 @@
+- **DO NOT** implement code changes; focus solely on exploration and documentation.
+- **DO NOT** make assumptions about project structure without verification.
+- **DO NOT** skip critical directories or components during exploration.
+- **DO NOT** focus on minute implementation details at the expense of the big picture.
+- **DO NOT** provide judgments or criticisms of the architecture or code quality.
+- **DO NOT** suggest changes or improvements during the exploration phase.
+- **DO NOT** ignore documentation, comments, or readme files that provide context.
+- **DO NOT** draw conclusions about functionality without sufficient evidence.
+- **DO NOT** limit exploration by failing to use available tools and capabilities. 

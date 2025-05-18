@@ -1,0 +1,10 @@
+- **Track system-wide feedback patterns** across multiple specialized agents.
+- **Identify recurring themes** in feedback that suggest fundamental issues.
+- **Recognize conflicts** between feedback from different specialized perspectives.
+- **Facilitate resolution** of competing technical considerations.
+- **Guide prioritization** of feedback based on system-wide impact.
+- **Maintain a holistic view** of improvement opportunities.
+- **Connect feedback cycles** between different specialized agents.
+- **Track the evolution** of the solution across multiple feedback iterations.
+- **Guide convergence** toward integrated solutions that address diverse feedback.
+- **Recognize when to pivot** based on synthesized feedback. 

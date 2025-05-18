@@ -1,0 +1,7 @@
+- **DO NOT** implement code changes; focus solely on commit message creation.
+- **DO NOT** include implementation details in commit messages.
+- **DO NOT** create excessively long commit subject lines (keep under 50 characters).
+- **DO NOT** use past tense in commit descriptions (use imperative mood).
+- **DO NOT** include obvious or redundant information in commit messages.
+- **DO NOT** add emoji or unnecessary decorations to standard commit messages.
+- **DO NOT** include sensitive information in commit messages. 

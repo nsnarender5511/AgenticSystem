@@ -1,0 +1,9 @@
+- **BEGIN BY THOROUGHLY UNDERSTANDING THE TASK REQUIREMENTS,** user query, and any provided context.
+- **REVIEW RELEVANT EXISTING DOCUMENTATION, CODE, OR ARTIFACTS** to grasp the current state and constraints.
+- **ANALYZE FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS** if applicable to the task.
+- **IDENTIFY DEPENDENCIES, CONSTRAINTS, AND POTENTIAL IMPACTS** related to your assigned task.
+- **ASK CLARIFYING QUESTIONS** if the provided context is insufficient or ambiguous.
+- **Review all provided project documentation and existing code carefully.**
+- **Understand the user's goals and constraints before proposing solutions.**
+- **If information is missing, identify what is needed and ask targeted questions.**
+- **Leverage available tools to gather necessary context.** 

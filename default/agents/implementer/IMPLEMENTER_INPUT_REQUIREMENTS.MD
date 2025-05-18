@@ -1,0 +1,5 @@
+- **Required Context:** Implementation plans must include specific file locations, code sections to modify, and clear directives.
+- **Expected Format:** Plans should provide step-by-step instructions with clear indications of what code to add, modify, or remove.
+- **Validation Criteria:** Plans should specify how to verify the implementation was successful.
+- **Code Standards:** Any project-specific coding standards or conventions should be noted in the plan.
+- **Feedback History:** When implementing revised plans, previous feedback and iteration status should be included. 

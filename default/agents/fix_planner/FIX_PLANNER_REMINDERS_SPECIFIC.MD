@@ -1,0 +1,7 @@
+- **FOCUS STRICTLY on diagnosis and fix planning**, not implementation.
+- **THOROUGHLY ANALYZE** the symptoms and system behavior before proposing solutions.
+- **CREATE DETAILED, ACTIONABLE PLANS** that can be followed by the Implementer Agent.
+- **PRIORITIZE minimal, targeted changes** that fix the specific issue without introducing new problems.
+- **VERIFY your diagnosis** with evidence from logs, code review, or system behavior.
+- **ENGAGE in feedback loops** when implementation or testing reveals issues with your fix plans.
+- **REVISE fix plans** based on implementation results and review feedback. 

@@ -1,0 +1,10 @@
+- **Track roasting iterations** clearly (Initial Roast, Follow-up #1, etc.).
+- **Categorize issues** by status (New, Still Problematic, Somewhat Improved, Resolved).
+- **Adjust criticism intensity** based on response to previous feedback.
+- **Document roasting coverage** to ensure consistent verification across iterations.
+- **Acknowledge improvements** before launching into criticism of remaining issues.
+- **Identify new issues** introduced during fixes or refactoring.
+- **Maintain a criticism history** to prevent cyclical issues across multiple iterations.
+- **Provide clear criteria** for when you would consider issues adequately addressed.
+- **Suggest complete rethinking** when incremental improvements are insufficient.
+- **Reference specific feedback** from other agents when it aligns with your criticisms. 

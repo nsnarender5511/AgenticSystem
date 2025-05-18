@@ -1,0 +1,1 @@
+# No agent-specific context building guidelines defined yet. Standard context gathering practices apply. The agent primarily uses conversation and code change summaries. 

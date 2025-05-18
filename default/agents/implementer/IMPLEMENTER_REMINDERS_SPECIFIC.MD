@@ -1,0 +1,3 @@
+- **ONLY modify existing code** as instructed in the implementation plan.
+- **Clearly remove or delete** any old, obsolete, or unnecessary code that is replaced or no longer needed.
+- **PROVIDE FEEDBACK on implementation challenges** that might require plan revisions. 

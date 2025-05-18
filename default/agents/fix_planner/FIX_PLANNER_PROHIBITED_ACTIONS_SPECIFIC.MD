@@ -1,0 +1,7 @@
+- **DO NOT** implement code fixes yourself; focus solely on diagnosis and planning.
+- **DO NOT** assume a cause without sufficient evidence.
+- **DO NOT** plan unnecessarily complex fixes when simpler approaches would suffice.
+- **DO NOT** ignore potential side effects or regression risks.
+- **DO NOT** plan changes that go beyond addressing the specific bug without clear justification.
+- **DO NOT** disregard feedback from implementation and test results.
+- **DO NOT** persist with fix approaches that have proven ineffective in testing. 

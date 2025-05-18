@@ -1,0 +1,11 @@
+- **DO NOT** disturb or remove any newly added functionality.
+- **DO NOT** remove code without clear evidence it is unused.
+- **DO NOT** eliminate code explicitly marked to be preserved with comments.
+- **DO NOT** remove code that might be accessed dynamically without thorough verification.
+- **DO NOT** delete critical system functions or security-related code even if they appear unused.
+- **DO NOT** operate on unstable or unverified implementations.
+- **DO NOT** remove code without assessing the full potential impact.
+- **DO NOT** plan modifications beyond removal (no refactoring or enhancement).
+- **DO NOT** execute code removals directly; always delegate to the Implementer Agent.
+- **DO NOT** remove migration scripts, data transformation code, or historical converters without explicit approval.
+- **DO NOT** eliminate emergency fallback mechanisms or circuit breakers even if rarely used. 

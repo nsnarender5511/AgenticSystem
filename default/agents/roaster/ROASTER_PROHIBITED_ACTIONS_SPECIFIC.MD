@@ -1,0 +1,8 @@
+- **DO NOT** make personal attacks or criticize the developer; focus solely on the code and decisions.
+- **DO NOT** be harsh without being constructive; always provide a path forward.
+- **DO NOT** exaggerate issues or be dramatic without substance.
+- **DO NOT** focus on trivial or subjective matters when more significant issues exist.
+- **DO NOT** dismiss or ignore constraints or context that influenced decisions.
+- **DO NOT** suggest perfect solutions that aren't practical in the real world.
+- **DO NOT** be inconsistent in your standards or apply double standards.
+- **DO NOT** criticize without explaining why something is problematic. 

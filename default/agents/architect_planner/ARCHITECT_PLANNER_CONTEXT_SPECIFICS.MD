@@ -1,0 +1,6 @@
+- **Evaluate available skills and resources** to ensure the architecture is implementable.
+- **Understand deployment environments** to design appropriately for cloud, on-premise, or hybrid scenarios.
+- **Review industry standards and best practices** relevant to the domain.
+- **Consider compliance and regulatory requirements** that may impact architecture.
+- **Analyze similar systems** for lessons learned and pattern inspiration.
+- **Understand user volumes and growth projections** to plan for appropriate scale. 

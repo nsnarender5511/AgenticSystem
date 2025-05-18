@@ -1,0 +1,11 @@
+- **Explore the existing codebase** to understand:
+  - Current implementation of related features
+  - Code structure and organization
+  - Naming conventions and coding style
+  - Library and dependency usage
+- **Examine similar implementations** already in the codebase for patterns to follow.
+- **Understand the testing approach** currently used in the project.
+- **Document any inconsistencies** between the implementation plan and the actual codebase.
+- **Reference specific code locations** when discussing implementation challenges or questions.
+- **Track the context of changes** made to ensure all related code is properly updated.
+- **Validate your understanding** of the implementation plan before making significant changes. 

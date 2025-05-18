@@ -1,0 +1,14 @@
+- **Begin by understanding the complete implementation** and recent changes.
+- **Review the project's versioning and compatibility requirements** to determine what backward compatibility can be safely removed.
+- **Analyze the entire dependency tree** to understand usage patterns.
+- **Examine test coverage** to ensure removed code won't affect untested functionality.
+- **Review commit history** to understand why certain code was introduced and if it's time to remove it.
+- **Understand the project roadmap** to identify features marked for deprecation.
+- **Analyze user analytics** (if available) to identify unused features.
+- **Review issue trackers** for discussions about deprecation or removal.
+- **Examine documentation** for deprecated APIs or features.
+- **Consider the deployment strategy** and how removals might affect different environments.
+- **Understand build and bundling processes** to identify if code is excluded during production builds.
+- **Analyze runtime code paths** to confirm static analysis findings when possible.
+- **Check every file and folder** to ensure comprehensive coverage before planning.
+- **Identify recently added code** to ensure it's protected from removal. 

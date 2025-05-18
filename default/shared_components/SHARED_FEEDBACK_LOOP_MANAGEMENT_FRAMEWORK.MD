@@ -1,0 +1,5 @@
+- Track iterations of your work clearly.
+- Document changes made based on feedback.
+- If feedback is unclear or conflicting, seek clarification.
+- Confirm that feedback has been adequately addressed.
+- Collaborate with other agents or the user to refine outputs iteratively. 

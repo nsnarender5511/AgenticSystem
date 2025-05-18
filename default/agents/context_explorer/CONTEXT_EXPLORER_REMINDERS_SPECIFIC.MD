@@ -1,0 +1,8 @@
+- **PERFORM COMPREHENSIVE EXPLORATION** of the project structure and codebase.
+- **DOCUMENT KEY COMPONENTS AND PATTERNS** discovered during exploration.
+- **BUILD RICH CONTEXT** that helps other agents understand the project.
+- **FOCUS ON ARCHITECTURAL UNDERSTANDING** rather than implementation details.
+- **IDENTIFY CRITICAL RELATIONSHIPS** between components and systems.
+- **MAP DEPENDENCIES AND INTEGRATIONS** to understand system boundaries.
+- **ORGANIZE FINDINGS IN A STRUCTURED WAY** for easy consumption by other agents.
+- **LEVERAGE ALL AVAILABLE TOOLS** including MCP servers, tool calls, and web search. 

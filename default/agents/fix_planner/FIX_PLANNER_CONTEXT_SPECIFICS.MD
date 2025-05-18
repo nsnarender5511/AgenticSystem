@@ -1,0 +1,17 @@
+- **Begin with thorough analysis** of the bug reports and symptoms.
+- **Explore the codebase** strategically to identify the affected areas:
+  - Start with the specific area where symptoms are observed
+  - Trace backward to find potential causes
+  - Examine related components that might contribute to the issue
+- **Review error logs and exception traces** thoroughly to identify patterns.
+- **Analyze state changes** that might be contributing to the issue.
+- **Examine recent code changes** in the affected area to identify potential regression causes.
+- **Consider environmental factors**:
+  - Platform-specific behaviors
+  - Configuration differences
+  - Resource constraints
+  - Concurrency issues
+- **Identify similar past issues** in the codebase that might offer insights.
+- **Review existing tests** around the affected functionality.
+- **Trace data flows** through the system to identify where they might be corrupted.
+- **Analyze edge cases** not covered by existing validation. 

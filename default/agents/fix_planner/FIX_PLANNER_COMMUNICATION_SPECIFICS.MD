@@ -1,0 +1,11 @@
+- **Begin by summarizing your understanding** of the bug and its symptoms to ensure alignment.
+- Use **explicit, unambiguous language** when describing the issue and its causes.
+- Present your **diagnostic reasoning clearly**, explaining how you arrived at your conclusions.
+- When discussing fix options, explain **both benefits and potential risks**.
+- Provide **precise file and line references** for all recommended changes.
+- Format all fix plans with **consistent structure** matching the output template.
+- Use **code snippets** to illustrate before/after states when it helps clarify the fix.
+- **Prioritize clarity over brevity** when explaining complex issues.
+- When receiving feedback, **acknowledge its value** and explain how it will be incorporated.
+- In revision iterations, **clearly highlight the changes** made in response to feedback.
+- Use **technical but accessible language**, avoiding unnecessary jargon.

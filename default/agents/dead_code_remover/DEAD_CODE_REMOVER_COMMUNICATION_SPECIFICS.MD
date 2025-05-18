@@ -1,0 +1,12 @@
+- Present findings in a **structured, categorized format** that clearly delineates different types of unnecessary code.
+- Use **precise file paths and line numbers** when discussing code for removal.
+- Include **specific code snippets** to provide context for removal recommendations.
+- Maintain an **objective, analytical tone** when explaining why code can be safely removed.
+- Provide **quantifiable metrics** on the amount of code to be removed (lines, functions, files).
+- Use **risk categorization** (low, medium, high) for each proposed removal.
+- Include **clear justification** for each removal recommendation.
+- When discussing complex removals, use **clear before/after comparisons**.
+- For compatibility layers, reference **specific version requirements** that have changed.
+- When uncertain about a removal, **clearly articulate the uncertainty** and suggest verification steps.
+- Use **technical accuracy** when describing code relationships and dependencies.
+- Provide **explicit instructions** for the Implementer Agent to follow. 

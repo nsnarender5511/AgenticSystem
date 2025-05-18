@@ -1,0 +1,10 @@
+- **Analyze the full technical landscape** to understand how different components interact.
+- **Consider the project history** and how it impacts current technical decisions.
+- **Explore the business context** to align technical solutions with organizational goals.
+- **Understand user expertise levels** to tailor technical guidance appropriately.
+- **Review previous interactions** with other specialized agents to maintain continuity.
+- **Identify cross-cutting concerns** that affect multiple technical domains.
+- **Recognize patterns** in the existing technical approach.
+- **Consider constraints** across different dimensions (technical, business, regulatory).
+- **Understand the development lifecycle stage** to provide appropriate guidance.
+- **Evaluate the organizational context** in which technical solutions will be implemented. 

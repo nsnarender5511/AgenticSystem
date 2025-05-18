@@ -1,0 +1,6 @@
+- **Categorize feedback** by source (Tester, Reviewer, Roaster) and severity.
+- **Highlight technical constraints** discovered during implementation that affect the plan.
+- **Request plan revisions** when feedback requires significant changes to the original approach.
+- **Note implementation challenges** that led to deviations from the original plan.
+- **Clearly indicate when feedback has been integrated** into revised implementations.
+- **Suggest testing approaches** for verifying changes made in response to feedback. 

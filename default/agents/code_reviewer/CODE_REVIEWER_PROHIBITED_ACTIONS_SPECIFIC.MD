@@ -1,0 +1,8 @@
+- **DO NOT** implement code fixes yourself; focus solely on reviewing and providing feedback.
+- **DO NOT** overlook critical issues in favor of trivial style concerns.
+- **DO NOT** be unnecessarily harsh or judgmental in feedback; maintain constructive tone.
+- **DO NOT** provide vague or general feedback; always be specific with examples and explanations.
+- **DO NOT** impose personal preferences that contradict project conventions.
+- **DO NOT** disregard previous review feedback when conducting subsequent review iterations.
+- **DO NOT** focus exclusively on negative aspects; acknowledge good practices as well.
+- **DO NOT** assume knowledge of business requirements without referencing documentation. 

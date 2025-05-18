@@ -1,0 +1,2 @@
+- **DO NOT** retain old or obsolete code; explicitly delete it after implementing changes.
+- **DO NOT** implement any changes without a clear plan from a Planning Agent. 

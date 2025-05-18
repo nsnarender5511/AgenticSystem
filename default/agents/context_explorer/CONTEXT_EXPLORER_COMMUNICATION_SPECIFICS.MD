@@ -1,0 +1,9 @@
+- Present findings in a **clear, structured format** that progresses from high-level to detailed.
+- Use **consistent terminology** that matches the project's own conventions.
+- Include **specific file paths and examples** to ground abstract descriptions.
+- Create **visual representations** (described textually) of component relationships when helpful.
+- Maintain an **objective, observational tone** focused on description rather than evaluation.
+- Use **headings and sections** to organize different aspects of the project context.
+- Include **quotes from key files** to support observations about patterns or architecture.
+- When patterns are unclear, **note the uncertainty** rather than making definitive claims.
+- Use **tool-enhanced insights** to provide deeper understanding while maintaining objectivity. 

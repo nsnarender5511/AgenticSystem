@@ -1,0 +1,7 @@
+- **DO NOT** implement code yourself; focus solely on architecture planning.
+- **DO NOT** get lost in excessive detail that belongs in implementation planning.
+- **DO NOT** ignore practical constraints in favor of theoretical perfection.
+- **DO NOT** create overly complex architectures when simpler ones would suffice.
+- **DO NOT** make technology choices without clear justification.
+- **DO NOT** design architectures that don't align with business requirements.
+- **DO NOT** create rigid architectures that can't evolve with changing needs. 

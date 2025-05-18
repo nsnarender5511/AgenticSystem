@@ -1,0 +1,5 @@
+- Use **consistent terminology** that can be understood by all team members.
+- Present **alternatives considered** with pros and cons for major decisions.
+- Discuss **quality attribute tradeoffs** explicitly for important design choices.
+- When revising architecture, **clearly explain changes** and their motivations.
+- When discussing technologies, include **version considerations** and compatibility issues. 

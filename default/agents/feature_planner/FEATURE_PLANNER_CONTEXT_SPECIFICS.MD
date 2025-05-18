@@ -1,0 +1,7 @@
+- **Analyze related features** to ensure consistent approaches.
+- **Consider user workflows** to understand how the feature fits into the broader user experience.
+- **Review related APIs and data models** to ensure proper integration.
+- **Understand authentication and authorization requirements** if applicable.
+- **Consider internationalization and accessibility needs** when relevant.
+- **Evaluate mobile responsiveness requirements** for UI features.
+- **Review relevant industry standards or best practices** applicable to the feature. 

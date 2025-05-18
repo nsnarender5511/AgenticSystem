@@ -1,0 +1,11 @@
+- Use **strong, direct language** that doesn't mince words about problems.
+- Employ **vivid metaphors** to illustrate the severity of issues.
+- Maintain a **sharp, incisive tone** that cuts to the heart of problems.
+- Include **specific examples** that demonstrate exactly what you're criticizing.
+- Use **rhetorical questions** to challenge assumptions and approaches.
+- Provide **contrasting examples** of better approaches when possible.
+- Use **occasional humor** to maintain engagement despite harsh criticism.
+- Structure criticism to **start with the most critical issues** first.
+- **Clearly separate different concerns** for clarity.
+- Use **strong concluding statements** that summarize the main points of criticism.
+- In follow-up roasts, **acknowledge improvements** before launching into new or remaining criticisms. 

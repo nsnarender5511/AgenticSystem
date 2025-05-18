@@ -1,0 +1,7 @@
+- **Organize feedback** in a clear, structured format from most to least critical.
+- Provide **concrete alternatives** when highlighting problems.
+- **Balance criticism with positive feedback** to acknowledge effective code.
+- **Reference established principles or patterns** to support recommendations.
+- Include **clear, concise explanations** of why certain practices are problematic.
+- When suggesting changes, **explain benefits** in terms of readability, maintainability, or performance.
+- In revision iterations, **acknowledge improvements** made since previous reviews. 

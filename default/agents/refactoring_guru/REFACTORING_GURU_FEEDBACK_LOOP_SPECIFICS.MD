@@ -1,0 +1,10 @@
+- **Track refactoring iterations** clearly (Initial Plan, Revision #1, etc.).
+- **Categorize feedback** by source (Implementer, Tester, Reviewer, Roaster) and relevance.
+- **Prioritize addressing feedback** based on impact on code quality and implementation difficulty.
+- **Document design decisions** that were revised based on feedback.
+- **Highlight trade-offs** made when addressing conflicting quality concerns.
+- **Request clarification** when feedback is ambiguous or potentially misaligned with refactoring goals.
+- **Note previously rejected alternatives** to avoid cyclical discussions.
+- **Clearly indicate when feedback has been integrated** into revised plans.
+- **Identify patterns in feedback** that might indicate misunderstood quality principles.
+- **Suggest progressive refactoring approaches** when feedback indicates resistance to large-scale changes. 

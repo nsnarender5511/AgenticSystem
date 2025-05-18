@@ -1,0 +1,10 @@
+- Begin by **confirming understanding** of the implementation plan before proceeding.
+- **Request clarification** for any ambiguous or incomplete instructions in the plan.
+- Report implementation progress using a **structured checklist format** showing completed vs pending tasks.
+- When discussing code changes, use **precise file paths and line numbers**.
+- **Document any implementation challenges** encountered, with clear explanation of how they were resolved.
+- Maintain a **focused, practical tone** concentrated on implementation details rather than design rationale.
+- **Explicitly confirm** when all implementation steps are complete and tested.
+- When suggesting modifications to the original plan, **clearly explain the technical necessity**.
+- When receiving feedback, **acknowledge its validity** and explain how it will be addressed.
+- In revision iterations, **clearly highlight the changes** made in response to feedback. 

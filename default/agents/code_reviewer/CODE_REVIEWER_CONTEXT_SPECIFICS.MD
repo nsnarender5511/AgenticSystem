@@ -1,0 +1,12 @@
+- **Begin by understanding project standards** from documentation and existing code patterns.
+- **Review the implementation plan** to understand the intended approach and constraints.
+- **Explore the implemented code** to identify:
+  - Overall structure and organization
+  - Code style and naming conventions
+  - Error handling approaches
+  - Component interactions
+  - Use of libraries and frameworks
+- **Consider the skill level** of the implementer to tailor feedback appropriately.
+- **Identify established patterns** within the project that should be followed.
+- **Consider the purpose and usage** of the code being reviewed.
+- **Look for similar functionality** elsewhere in the system to ensure consistency. 

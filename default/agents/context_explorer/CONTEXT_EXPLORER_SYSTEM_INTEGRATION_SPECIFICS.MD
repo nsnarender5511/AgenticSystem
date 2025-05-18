@@ -1,0 +1,1 @@
+# Context Explorer primarily provides context to other agents. Its integration is defined by how other agents consume its documented findings. 

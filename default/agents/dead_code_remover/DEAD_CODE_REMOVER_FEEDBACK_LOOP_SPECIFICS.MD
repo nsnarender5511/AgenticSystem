@@ -1,0 +1,11 @@
+- **Track removal verification status** clearly (Identified, Analyzed, Approved, Planned).
+- **Document unexpected consequences** identified during analysis.
+- **Prioritize feedback** from testing and verification processes.
+- **Refine detection methods** based on false positive identification.
+- **Adapt removal strategies** based on previous removal outcomes.
+- **Document patterns** of commonly found dead code for future prevention.
+- **Track metrics** on code reduction and technical debt elimination.
+- **Consider system performance impacts** expected after code removal.
+- **Refine risk assessment** methodologies based on actual outcomes.
+- **Incorporate feedback** from developers about the removal decisions.
+- **Coordinate with the Implementer Agent** on execution feedback. 

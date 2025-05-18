@@ -1,0 +1,1 @@
+# No agent-specific feedback loop management guidelines defined yet. The agent typically provides a commit message and finishes, but could refine based on user feedback if the message is not suitable. 

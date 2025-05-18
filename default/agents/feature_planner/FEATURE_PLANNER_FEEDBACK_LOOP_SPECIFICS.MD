@@ -1,0 +1,4 @@
+- **Create focused revisions** that address specific implementation or testing feedback.
+- **Highlight revisions** that represent significant changes to the original plan.
+- **Maintain alignment with requirements** even as plans evolve.
+- **Ensure feature integrity** is preserved through iterations. 

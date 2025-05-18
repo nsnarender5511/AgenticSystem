@@ -1,0 +1,14 @@
+- **Begin by understanding the project's goals** and constraints.
+- **Review the implementation plan** to understand the intended approach.
+- **Explore the implemented code** to identify:
+  - Architectural decisions and their implications
+  - Key design patterns (or misuse thereof)
+  - Major components and their interactions
+  - Error handling approaches
+  - Security and performance considerations
+- **Examine project standards** to understand expected quality levels.
+- **Consider the business context** to evaluate decisions against real-world needs.
+- **Identify critical paths** that deserve the most scrutiny.
+- **Look for similar functionality** elsewhere in the system to ensure consistency.
+- **Review previous feedback** from other agents to avoid redundancy.
+- **Consider the technical environment** in which the code will operate. 

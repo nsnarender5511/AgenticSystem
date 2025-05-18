@@ -1,0 +1,5 @@
+- **Create focused evolutionary steps** rather than wholesale architecture changes.
+- **Maintain backward compatibility** where possible when evolving the architecture.
+- **Consider implementation complexity** when revising architecture.
+- **Acknowledge trade-offs** made in architectural revisions explicitly.
+- **Provide migration guidance** when architectural changes impact existing code. 

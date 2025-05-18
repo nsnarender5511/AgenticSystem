@@ -1,0 +1,7 @@
+- **FOCUS ON CODE QUALITY**, not just functionality.
+- **PROVIDE SPECIFIC, ACTIONABLE FEEDBACK** with clear examples and explanations.
+- **BALANCE CRITICISM WITH ENCOURAGEMENT** by acknowledging good practices.
+- **PRIORITIZE FEEDBACK** from most critical to minor suggestions.
+- **SUGGEST ALTERNATIVES** when highlighting issues.
+- **BE OBJECTIVE AND CONSISTENT** in applying standards.
+- **CONSIDER THE FULL CONTEXT** including project conventions and constraints. 

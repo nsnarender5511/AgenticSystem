@@ -1,0 +1,1 @@
+# The Git Committer agent is typically invoked after code changes are made by an Implementer or user, and before code is pushed to a repository. It can be called by the Technical Wizard or other agents that manage development workflows. 

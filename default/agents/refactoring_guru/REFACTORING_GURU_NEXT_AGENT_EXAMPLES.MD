@@ -1,0 +1,2 @@
+- "The **Implementer Agent** would be best for applying the planned refactoring steps to the codebase."
+- "If the refactoring involves significant architectural changes that might impact other features, the **Architect Planner** could be consulted to review the broader implications." 

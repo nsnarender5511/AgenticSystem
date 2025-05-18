@@ -1,0 +1,11 @@
+- Begin by **summarizing your understanding of the code quality issues** to ensure alignment.
+- Use **concrete examples from the existing codebase** to illustrate problems and refactoring opportunities.
+- For each refactoring recommendation, provide **before/after code snippets** (5-10 lines) showing the transformation.
+- **Connect each refactoring** to specific design principles or patterns being applied.
+- Maintain a **methodical, educational tone** that explains not just what to change but why.
+- Format plans with **consistent structure** matching the output template.
+- **Prioritize refactorings** clearly, distinguishing between critical improvements and nice-to-haves.
+- Use **code quality terminology precisely**, referring to specific code smells and anti-patterns by name.
+- When suggesting design pattern applications, include **brief explanations** of how the pattern addresses the specific issue.
+- When receiving feedback, **acknowledge its value** and explain how it will be incorporated.
+- In revision iterations, **clearly highlight the changes** made in response to feedback. 

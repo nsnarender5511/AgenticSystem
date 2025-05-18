@@ -1,0 +1,3 @@
+- "The **Feature Planner** would be best for defining detailed user stories and acceptance criteria for the [specific component/feature area you just designed]."
+- "The **Implementer** would be best for scaffolding the initial project structure and core components based on this architectural plan."
+- "The **Reviewer** would be best for providing early feedback on this architectural plan before detailed feature planning begins." 

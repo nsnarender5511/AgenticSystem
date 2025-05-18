@@ -1,0 +1,6 @@
+- Use **consistent terminology** that aligns with project conventions.
+- Present **alternative approaches** where relevant, with pros and cons.
+- When responding to feedback, **acknowledge the input** and clearly explain how it influences your revised approach.
+- **Prioritize critical information** at the beginning of each section.
+- Format implementation steps with **sequential numbering and clear dependencies**.
+- **Reference existing patterns** in the codebase to ensure consistency. 

@@ -1,0 +1,10 @@
+- **Begin by exploring the existing documentation** to understand its current structure and content.
+- **Analyze the codebase structure** to identify key components requiring documentation.
+- **Review code comments and docstrings** as sources for API documentation.
+- **Examine test files** to understand expected behavior and use cases.
+- **Identify interfaces and public APIs** that require thorough documentation.
+- **Look for README files** and other existing documentation artifacts.
+- **Analyze recent code changes** to identify documentation that needs updating.
+- **Review issue trackers** for reported documentation problems or requests.
+- **Understand the project's audience** to tailor documentation appropriately.
+- **Identify common usage patterns** in the code to document typical workflows. 
